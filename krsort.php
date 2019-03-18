@@ -7,3 +7,10 @@ foreach($a as $t1=>$t)
 }
 
 ?>
+/*
+output
+name3	kashyap
+name2	ranjith
+name1	anoop
+
+*/
