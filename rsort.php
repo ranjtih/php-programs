@@ -7,3 +7,9 @@ foreach($a as $t)
 }
 
 ?>
+/*
+output
+ranjith
+kashyap
+anoop
+*/
